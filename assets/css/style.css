@@ -8,11 +8,49 @@
   color: white;
 }
 .childmar > span {
-    padding: 5px;
+  padding: 5px;
   font-size: 22px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
   text-transform: uppercase;
 }
+
 /* hero section */
+
+/* SUB HERO */
+.sub-hero-heading {
+  color: black;
+  font-size: 104px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 110%; /* 114.4px */
+  text-transform: uppercase;
+}
+.sub-hero-desc {
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 32.4px */
+}
+.sub-hero-desc-below-text {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 22.4px */
+}
+.sub-hero-bold-text {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 22.4px */
+}
+.sub-hero-label {
+  border-radius: 100px;
+  border: 1px solid var(--border-default, #000);
+  padding: 5px;
+}
+/* SUB HERO */
