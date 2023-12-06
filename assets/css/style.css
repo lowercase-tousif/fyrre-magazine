@@ -54,3 +54,100 @@
   padding: 5px;
 }
 /* SUB HERO */
+
+/* side col */
+/* 
+side-col-date"
+side-col-img
+side-col-btn
+side-col-popular
+side-col-popular-serial */
+
+.side-col-heading {
+  color: #000;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.side-col-date {
+  color: #000;
+
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%; /* 57.6px */
+}
+.side-col-img {
+  width: 369px;
+}
+.side-col-btn {
+  margin-top: 16px;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding: 15.5px 24px 15.5px 24px;
+  color: white;
+  background-color: black;
+  border: 0;
+}
+.side-col-popular {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-top: 64px;
+}
+.side-col-popular-serial {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.side-col-popular-heading {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+}
+.side-col-popular-text {
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+}
+.side-col-popular-text > span {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%;
+}
+
+.card-title {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.card-body > h4 {
+  margin-top: 8px;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 130%; /* 41.6px */
+}
+.form-control-sm {
+  margin-top: 16px;
+  display: flex;
+  height: 49px;
+  padding: 0px 15px;
+  align-items: center;
+  gap: 10px;
+  align-self: stretch;
+}
+/* side col */
