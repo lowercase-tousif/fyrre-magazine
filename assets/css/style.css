@@ -2,7 +2,17 @@
   font-family: "General Sans", sans-serif;
 }
 
-
-/* navbar  section */
-
-/* navbar  section */
+/* hero section */
+.parentmar {
+  background-color: black;
+  color: white;
+}
+.childmar > span {
+    padding: 5px;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+}
+/* hero section */
