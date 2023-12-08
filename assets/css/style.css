@@ -56,13 +56,6 @@
 /* SUB HERO */
 
 /* side col */
-/* 
-side-col-date"
-side-col-img
-side-col-btn
-side-col-popular
-side-col-popular-serial */
-
 .side-col-heading {
   color: #000;
 
@@ -151,3 +144,29 @@ side-col-popular-serial */
   align-self: stretch;
 }
 /* side col */
+
+/* Podcast Section */
+.podcast-heading {
+  color: #000;
+  font-size: 104px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 110%; /* 114.4px */
+  text-transform: uppercase;
+}
+.card {
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  border-radius: 0;
+  border-right: 1px solid black;
+}
+
+.card-title {
+  color: #000;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%; /* 38.4px */
+}
+/* Podcast Section */
